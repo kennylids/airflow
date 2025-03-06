@@ -1,0 +1,16 @@
+.env
+
+# Python virtual environment
+airflow_venv/
+
+# Airflow logs
+logs/
+
+# Airflow database
+airflow.db
+
+# Airflow configuration
+airflow.cfg
+
+# Docker files
+docker-compose.override.yml
